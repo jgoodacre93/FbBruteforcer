@@ -1,4 +1,4 @@
-_Author_="Joychondroghosh@gmail.com"
+_Author_=
 __version__ = "0.1Joy"
 
 import time
